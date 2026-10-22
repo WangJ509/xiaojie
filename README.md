@@ -3,6 +3,8 @@
 為臺灣繁體中文打造的 macOS 注音輸入法，以小麥注音為基礎，加入在 Mac 本機執行的 AI 選字與永久選字學習。
 
 - [介紹與安裝](https://wangj509.github.io/xiaojie/)
+- [開發故事](https://wangj509.github.io/xiaojie/story.html)
+- [評測方法與限制](https://wangj509.github.io/xiaojie/evaluation.html)
 - [下載最新版本](https://github.com/WangJ509/xiaojie/releases/latest)
 - [回報問題](https://github.com/WangJ509/xiaojie/issues)
 - [致謝與授權](THIRD_PARTY_NOTICES.md)
@@ -36,3 +38,7 @@ sh ~/Downloads/XiaoJie-2026.10.17/install.sh
 ## 致謝
 
 感謝 [OpenVanilla 小麥注音](https://github.com/openvanilla/McBopomofo) 與所有貢獻者。輸入法本體與上游元件的 MIT 授權見 [LICENSE.txt](LICENSE.txt)，第三方元件與模型訓練資料來源見 [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md)。
+
+## 網站內容來源
+
+網站整合原網站分支的打字與語音示範、開發故事和原專案 README 的評測表。影片以 GIF 保存，預設顯示靜態預覽，訪客可自行播放或停止。新增章節時，請在 `story.html` 同步維護目錄與章節錨點；新增媒體時，提供 GIF、靜態預覽及可讀的替代文字。
